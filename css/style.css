@@ -11,8 +11,8 @@ body {
     width: 160px;
     margin-left: 90px;
     margin-top: 2px;
-
 }
+
 .navbar-nav {
     margin-right: 0 !important;
     padding-right: 100px;
@@ -40,12 +40,12 @@ body {
 }
 
 #button {
-padding: 7px 26px;
-border-radius: 30px;
-color: #fff;
-margin-right: 60px;
-font-size: 13px;
-margin-top: 5px;
+    padding: 7px 26px;
+    border-radius: 30px;
+    color: #fff;
+    margin-right: 60px;
+    font-size: 13px;
+    margin-top: 5px;
 }
 
 /*banner section*/
@@ -66,6 +66,7 @@ margin-top: 5px;
     font-weight: 700;
     padding-left: 20px;
 }
+
 h1 {
     font-size: 62px;
     margin-top: 10px;
@@ -73,16 +74,13 @@ h1 {
     font-weight: 700;
 }
 
-span .feature-icon {
-    font-size: 24px;
-    font-weight: 700;
-}
 
 p {
     font-size: 24px;
     font-weight: 400;
     color: #c5cbe8;
 }
+
 .btn {
     padding: 13px 47px;
     font-size: 18px;
@@ -93,12 +91,15 @@ p {
     border: 2px solid #00e099;
     background-color: #00e099;
 }
+
 .theme-border2 {
     border: 2px solid #00e099;
-  }
+}
+
 .theme-bg {
     background-color: #00e099;
 }
+
 img {
     margin-top: 25px;
     width: 550px;
@@ -107,4 +108,6 @@ img {
 .banner2 {
     background-color: #4B69E9;
     margin-top: 1px;
+    padding-top: 170px;
+    padding-bottom: 140px;
 }
