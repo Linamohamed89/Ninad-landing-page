@@ -1,11 +1,17 @@
+/*body*/
+body {
+    font-family: 'Raleway', sans-serif;
+}
+
 /* navbar */
 .logo-banner {
     vertical-align: middle;
     border-style: none;
-    height: 70px;
-    width: 180px;
+    height: 40px;
+    width: 160px;
     margin-left: 90px;
-    padding: 5px;
+    margin-top: 2px;
+
 }
 .navbar-nav {
     margin-right: 0 !important;
@@ -13,12 +19,15 @@
 }
 
 .navbar {
-    background-color: #10125C;
+    background-color: #0E144A;
     color: #fff !important;
 }
 
 .nav-item a {
     color: #fff !important;
+    padding: 24px 0;
+    font-size: 18px;
+    font-weight: 700;
 }
 
 .nav-item {
@@ -30,8 +39,13 @@
     padding-left: 10px;
 }
 
-#navbar button {
-    color: #fff !important;
+#button {
+padding: 7px 26px;
+border-radius: 30px;
+color: #fff;
+margin-right: 60px;
+font-size: 13px;
+margin-top: 5px;
 }
 
 /*banner section*/
@@ -46,6 +60,12 @@
     margin: 50px;
 }
 
+.subtitle {
+    color: #fff;
+    font-size: 24px;
+    font-weight: 700;
+    padding-left: 20px;
+}
 h1 {
     font-size: 62px;
     margin-top: 10px;
@@ -63,13 +83,15 @@ p {
     font-weight: 400;
     color: #c5cbe8;
 }
-
 .btn {
     padding: 13px 47px;
     font-size: 18px;
     font-weight: 700;
     border-radius: 28px;
     text-align: center;
+    margin-top: 45px;
+    border: 2px solid #00e099;
+    background-color: #00e099;
 }
 .theme-border2 {
     border: 2px solid #00e099;
