@@ -96,9 +96,7 @@ p {
     border: 2px solid #00e099;
 }
 
-.theme-bg {
-    background-color: #00e099;
-}
+
 
 img {
     margin-top: 25px;
@@ -116,22 +114,24 @@ h4, h4{
     margin-bottom: 20px;
     color: #fff !important;
     font-size: 30px; 
-    font-weight: 700;  
+    font-weight: 700; 
+    margin-top: 43px; 
 }
 
-span .feature-icon{
-    color: #00e099;
-    font-size: 85px;
+.service-img {
+    margin-top: -16px;
+    width: 80px;
 }
 
 p{
         font-size: 20px;
         font-weight: 400;
         line-height: 33px;
-        color: #646d8a;
+        color:#C5CBE8;
+        padding-right: 30px;
       }
 
-
+/*our service*/
 #service {
     background-color: #2F3036;
     padding-top: 100px;
@@ -153,7 +153,6 @@ p{
     text-align: center;
 }
 
-
 .icon-img {
     margin-top: 25px;
     width: 76px;
@@ -167,8 +166,6 @@ p{
     border-radius: 10PX;
     margin-left: 112px;
 }
-
-
 #border-orang {
     background-color: #FEE7D5;
     padding: 45px 130px;
@@ -176,7 +173,6 @@ p{
     border-radius: 10PX;
     margin-left: 30px;
 }
-
 #border-pink {
     background-color: #FEDCE6;
     padding: 45px 130px;
@@ -184,7 +180,6 @@ p{
     border-radius: 10PX;
     margin-left: 112px;
 }
-
 #border-green {
     background-color: #E4F9D1;
     padding: 45px 130px;
@@ -192,10 +187,34 @@ p{
     border-radius: 10PX;
     margin-left: 30px;
 }
-
 .h3, h3 {
     font-size: 30px;
     font-weight: 700;
     color: #343c55;
     margin-bottom: 15px;
+}
+
+/*about area*/
+.subtitle-about {
+    font-size: 24px;
+    font-weight: 700;
+    color: #343c55;
+    padding-left: 20px;
+    margin-bottom: 6px;
+}
+h2, h2 {
+    color: #343c55;
+    font-size: 60px;
+    font-weight: 700;
+    margin-bottom: 25px;
+}
+#about {
+    font-size: 20px;
+    font-weight: 500;
+    color: #646d8a;
+}
+.img-about {
+    margin-top: 25px;
+    width: 60px;
+    margin-bottom: 33px;   
 }
