@@ -1,6 +1,7 @@
 /*body*/
 body {
     font-family: 'Raleway', sans-serif;
+    color: #fff;
 }
 
 /* navbar */
@@ -243,7 +244,7 @@ h5, h5 {
 #portfolio {
     background-color: #F0F6FB;
     padding-top: 160px;
-    padding-bottom: 140px;
+    padding-bottom: 160px;
 }
 .title2 {
     margin-bottom: 60px;
@@ -282,7 +283,20 @@ h5, h5 {
 .img-fluid {
     border-radius: 10px;
 }
+
  .partofolio-erea {
-    padding-top: 160px;
-    padding-bottom: 140px;
+    padding-top: 140px;
+    padding-bottom: 160px;
+ }
+.myrow {
+    padding-bottom: 160px;
+}
+ /*skill area*/
+ .skill {
+    background-color: #fff;
+    margin-top: 160px;
+ }
+
+ .img-skill {
+    padding-top: 70px;
  }
