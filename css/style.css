@@ -239,6 +239,7 @@ h5, h5 {
 }
 
 /*portfolio area*/
+
 #portfolio {
     background-color: #F0F6FB;
     padding-top: 160px;
@@ -270,12 +271,18 @@ h5, h5 {
     color: #222222;
     cursor: pointer;
   }
+
+.button-solid:hover {
+    color: #00e099;
 }
 .button-solid:focus {
     border: none;
     outline: none;
 }
-.img-portfolio {
-    margin-top: 154px;
-    width: 345px;
+.img-fluid {
+    border-radius: 10px;
 }
+ .partofolio-erea {
+    padding-top: 160px;
+    padding-bottom: 140px;
+ }
