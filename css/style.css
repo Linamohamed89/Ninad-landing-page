@@ -124,14 +124,78 @@ span .feature-icon{
     font-size: 85px;
 }
 
-p .secondary-color2 {
-font-size: 15px;
-font-weight: 400;
-margin: 2px;
-}
+p{
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 33px;
+        color: #646d8a;
+      }
+
 
 #service {
     background-color: #2F3036;
-    padding-top: 180px;
+    padding-top: 100px;
     padding-bottom: 160px;
+}
+.text-subtitle {
+    color: #fff;
+    margin-top: 5px;
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 6px;
+    text-align: center;
+}
+.text-title {
+    font-size: 36px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    color: #fff;
+    text-align: center;
+}
+
+
+.icon-img {
+    margin-top: 25px;
+    width: 76px;
+    margin-bottom: 33px;
+}
+
+#border-lila {
+    background-color: #D7DEFE;
+    padding: 45px 130px;
+    margin-bottom: 30px;
+    border-radius: 10PX;
+    margin-left: 112px;
+}
+
+
+#border-orang {
+    background-color: #FEE7D5;
+    padding: 45px 130px;
+    margin-bottom: 30px;
+    border-radius: 10PX;
+    margin-left: 30px;
+}
+
+#border-pink {
+    background-color: #FEDCE6;
+    padding: 45px 130px;
+    margin-bottom: 30px;
+    border-radius: 10PX;
+    margin-left: 112px;
+}
+
+#border-green {
+    background-color: #E4F9D1;
+    padding: 45px 130px;
+    margin-bottom: 30px;
+    border-radius: 10PX;
+    margin-left: 30px;
+}
+
+.h3, h3 {
+    font-size: 30px;
+    font-weight: 700;
+    color: #343c55;
+    margin-bottom: 15px;
 }
