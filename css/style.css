@@ -195,6 +195,7 @@ p{
 }
 
 /*about area*/
+
 .subtitle-about {
     font-size: 24px;
     font-weight: 700;
@@ -217,4 +218,64 @@ h2, h2 {
     margin-top: 25px;
     width: 60px;
     margin-bottom: 33px;   
+}
+.about-img {
+    margin-top: 5px;
+    width: 45px;
+    margin-bottom: 5px;   
+}
+
+.paragraph-about {
+    font-size: 20px;
+    font-weight: 400;
+    color: #646d8a;
+}
+
+h5, h5 {
+    font-size: 21px;
+    font-weight: 700;
+    color: #343c55;
+    margin-bottom: 30px;
+}
+
+/*portfolio area*/
+#portfolio {
+    background-color: #F0F6FB;
+    padding-top: 160px;
+    padding-bottom: 140px;
+}
+.title2 {
+    margin-bottom: 60px;
+    text-align: center;
+    font-weight: 700;
+    color: #222;
+}
+.subtitle-porto {
+    font-size: 18px;
+    margin-bottom: 6px;
+}
+.title-porto {
+    color: #222;
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.button-solid {
+    border: none;
+    border: 0;
+    background: transparent;
+    font-weight: 700;
+    font-size: 18px;
+    padding: 10px 12px;
+    color: #222222;
+    cursor: pointer;
+  }
+}
+.button-solid:focus {
+    border: none;
+    outline: none;
+}
+.img-portfolio {
+    margin-top: 154px;
+    width: 345px;
 }
