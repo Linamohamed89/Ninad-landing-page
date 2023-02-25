@@ -381,4 +381,52 @@ a:hover {
 
 footer {
     background-color: #2F3036;
+    padding-bottom: 30px;
+    margin-top: 10px;
+}
+.footer-area {
+     padding-top: 115px;
+}
+.foot-logo {
+    margin-bottom: 35px;
+}
+
+.img-fluid {
+    max-width: 30%;
+    height: auto;
+}
+.footer-p {
+    margin-top: 0;
+margin-bottom: 1rem;
+font-size: 20px;
+font-weight: 400;
+line-height: 33px;
+padding-bottom: 20px;
+color: #c5cbe8;
+}
+.icons a{
+    text-decoration: none;
+    color: #fff;
+}
+.icons ion-icon{
+    color: #fff;
+    font-size: 20px;
+    padding-left: 14px;
+    padding-top: 5px;
+    transition: 0.3s ease;
+}
+.icons ion-icon:hover{
+    color:#00DE98;
+}
+
+#icons ion-icon{
+    color: #fff;
+    font-size: 25px;
+    padding-left: 14px;
+    padding-top: 5px;
+    transition: 0.3s ease;
+}
+
+#icons ion-icon:hover{
+    color:#00DE98;
 }
