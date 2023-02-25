@@ -394,6 +394,8 @@ footer {
 .img-fluid {
     max-width: 30%;
     height: auto;
+    margin-top: -7px;
+
 }
 .footer-p {
     margin-top: 0;
@@ -429,4 +431,48 @@ color: #c5cbe8;
 
 #icons ion-icon:hover{
     color:#00DE98;
+}
+
+a {
+    color: #c5cbe8;
+    font-size: 20px;
+    font-weight: 500;
+    padding-bottom: 0px;
+    margin-bottom: 10px;
+    text-decoration-line: none;
+}
+
+h6, h6{
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 30px;
+    text-transform: capitalize !important;
+    color: #fff;
+    margin-top: 0;
+}
+li a:hover {
+    color: #00DE98;
+text-decoration: underline;
+}
+
+.adress {
+    font-weight: 700;
+}
+.footer-bottom{
+margin-bottom: 50px;
+margin-top: 50px;
+}
+
+.footer-link:hover {
+    color: #00DE98;
+text-decoration: underline;
+}
+a.footer-link {
+   font-weight: 600;
+}
+.end-footer {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    text-align: start;
+    margin-left: 0px;
 }
