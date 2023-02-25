@@ -284,6 +284,9 @@ h5, h5 {
 }
 .img-fluid {
     border-radius: 10px;
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
 }
 
  .partofolio-erea {
@@ -373,11 +376,12 @@ a:hover {
     color: #222;
 }
 
+/*team area*/
 
 
 
 
-
+/*footer area*/
 
 footer {
     background-color: #2F3036;
@@ -391,7 +395,7 @@ footer {
     margin-bottom: 35px;
 }
 
-.img-fluid {
+.logo-img {
     max-width: 30%;
     height: auto;
     margin-top: -7px;
