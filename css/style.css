@@ -137,7 +137,7 @@ p{
 #service {
     background-color: #2F3036;
     padding-top: 100px;
-    padding-bottom: 160px;
+    padding-bottom: 0px;
 }
 .text-subtitle {
     color: #fff;
@@ -245,7 +245,7 @@ h5, h5 {
 #portfolio {
     background-color: #F0F6FB;
     padding-top: 160px;
-    padding-bottom: 140px;
+    padding-bottom: 0px;
     margin-bottom: 10px;
 }
 .title2 {
@@ -297,6 +297,7 @@ h5, h5 {
  .skill {
     background-color: #fff;
     margin-top: 160px;
+    margin-bottom: 0px;
  }
 
  .title1 {
@@ -372,6 +373,12 @@ a:hover {
     color: #222;
 }
 
-.img-choose {
-    width: 70px;
+
+
+
+
+
+
+footer {
+    background-color: #2F3036;
 }
