@@ -1,3 +1,4 @@
+
 /*body*/
 body {
     font-family: 'Raleway', sans-serif;
@@ -369,4 +370,8 @@ a {
 }
 a:hover {
     color: #222;
+}
+
+.img-choose {
+    width: 70px;
 }
