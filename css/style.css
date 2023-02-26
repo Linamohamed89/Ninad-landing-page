@@ -365,7 +365,7 @@ h5, h5 {
 color: #000;
 text-decoration: underline;
   }
- /* */
+ /* work area*/
 .number {
 font-size: 48px;
 font-weight: 700;
@@ -386,6 +386,11 @@ a:hover {
     color: #222;
 }
 
+/*test area*/
+#test {
+    background-color: #4B69E9;
+   
+}
 /*team area*/
 #team {
     background-color: #Fff;
