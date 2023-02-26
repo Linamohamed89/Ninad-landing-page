@@ -389,7 +389,24 @@ a:hover {
 /*test area*/
 #test {
     background-color: #4B69E9;
-   
+}
+.img-test {
+    margin-left: -140px;
+}
+.bi {
+    padding-top: 20px;
+    margin-top: 92px;
+}
+blockquote{
+font-size: 50px;
+font-weight: 400;
+margin-left: 47px;
+padding-top: 172px;
+padding-right: 0px;
+}
+.test-img {
+    border-radius: 50%;
+    width: 65px;
 }
 /*team area*/
 #team {
