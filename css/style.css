@@ -369,7 +369,11 @@ text-decoration: underline;
 /*choose area*/
 #choose-area {
     background-color: #2F3036;
+    padding-top: 405px;
+    padding-bottom: 135px;
+    
 }
+
 
 
 
