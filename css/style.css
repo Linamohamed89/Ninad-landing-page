@@ -395,7 +395,11 @@ a:hover {
 }
 .bi {
     padding-top: 20px;
-    margin-top: 92px;
+    margin-top: -87px;
+    margin-left: -65px;
+}
+.small-icon {
+    margin-top: 105px;
 }
 blockquote{
 font-size: 50px;
@@ -407,6 +411,17 @@ padding-right: 0px;
 .test-img {
     border-radius: 50%;
     width: 65px;
+    margin-left: 29px;
+}
+.text-test {
+    margin-top: 45px;
+}
+.txt {
+    margin-right: 10px;
+    font-weight: 700;
+    color: #fff;
+    margin-left: 60px;
+    margin-top: 45px;
 }
 /*team area*/
 #team {
@@ -464,6 +479,7 @@ color: #c5cbe8;
     padding-left: 14px;
     padding-top: 5px;
     transition: 0.3s ease;
+    margin-right: 12px;
 }
 .icons ion-icon:hover{
     color:#00DE98;
