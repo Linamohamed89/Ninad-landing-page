@@ -16,7 +16,7 @@ body {
 }
 
 .navbar-nav {
-    margin-right: 0 !important;
+    margin-left: 233px !important;
     padding-right: 100px;
 }
 
@@ -355,6 +355,16 @@ h5, h5 {
     color: #646d8a;
     margin-bottom: 1rem;
   }
+
+  .green-link {
+    color: #00DE98;
+    text-decoration: underline;
+  }
+
+  .green-link:hover {
+color: #000;
+text-decoration: underline;
+  }
  /* */
 .number {
 font-size: 48px;
@@ -377,9 +387,21 @@ a:hover {
 }
 
 /*team area*/
+#team {
+    background-color: #Fff;
+    padding-top: 160px;
+    padding-bottom: 0px;
+    margin-bottom: 10px;
+}
+.team-img {
+    margin-top: 25px;
+    width: 300px;
+}
 
-
-
+.row {
+    margin-left: -15px;
+    margin-right: -15px;
+}
 
 /*footer area*/
 
