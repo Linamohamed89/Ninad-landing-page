@@ -364,7 +364,15 @@ h5, h5 {
   .green-link:hover {
 color: #000;
 text-decoration: underline;
-  }
+}
+
+/*choose area*/
+#choose-area {
+    background-color: #2F3036;
+}
+
+
+
  /* work area*/
 .number {
 font-size: 48px;
