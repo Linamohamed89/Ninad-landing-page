@@ -366,6 +366,28 @@ color: #000;
 text-decoration: underline;
 }
 
+ /* work area*/
+ .number {
+    font-size: 48px;
+    font-weight: 700;
+    color: #343c55;
+    }
+    .mynumber {
+        font-size: 20px;
+        font-weight: 700;
+        color: #343c55;
+    }
+    a {
+        color:  #00e099;
+        font-size: 16px;
+        font-weight: 700;
+        padding-bottom: 100px;
+    }
+    a:hover {
+        color: #222;
+    }
+
+    
 /*choose area*/
 #choose-area {
     background-color: #2F3036;
@@ -375,27 +397,22 @@ text-decoration: underline;
 }
 
 
+/*team area*/
+#team {
+    background-color: #Fff;
+    padding-top: 160px;
+    padding-bottom: 0px;
+    margin-bottom: 10px;
+}
+.team-img {
+    margin-top: 25px;
+    margin-bottom: 100px;
+    width: 300px;
+}
 
-
- /* work area*/
-.number {
-font-size: 48px;
-font-weight: 700;
-color: #343c55;
-}
-.mynumber {
-    font-size: 20px;
-    font-weight: 700;
-    color: #343c55;
-}
-a {
-    color:  #00e099;
-    font-size: 16px;
-    font-weight: 700;
-    padding-bottom: 100px;
-}
-a:hover {
-    color: #222;
+.row {
+    margin-left: -15px;
+    margin-right: -15px;
 }
 
 /*test area*/
@@ -435,22 +452,7 @@ padding-right: 0px;
     margin-left: 60px;
     margin-top: 45px;
 }
-/*team area*/
-#team {
-    background-color: #Fff;
-    padding-top: 160px;
-    padding-bottom: 0px;
-    margin-bottom: 10px;
-}
-.team-img {
-    margin-top: 25px;
-    width: 300px;
-}
 
-.row {
-    margin-left: -15px;
-    margin-right: -15px;
-}
 
 /*footer area*/
 
