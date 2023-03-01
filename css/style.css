@@ -511,6 +511,11 @@ padding-right: 0px;
     padding-bottom: 143px;
     padding-top: 142px;
 }
+.location {
+    fill: #fff;
+    background-color: #00DE98;
+    border-radius: 50%
+}
 .title-kontakt {
     font-size: 18px;
     color: #222222;
@@ -519,10 +524,12 @@ padding-right: 0px;
     text-align: center;
 }
 .color-paragraph {
+    margin-left: 20px;
+    padding: 0 90px;
+    color: #646d8a;
     font-size: 20px;
 font-weight: 400;
 text-align: center
-  color: #646d8a;
 }
 /*footer area*/
 #mycontent {
