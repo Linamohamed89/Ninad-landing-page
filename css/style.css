@@ -300,7 +300,7 @@ h5, h5 {
  .skill {
     background-color: #fff;
     margin-top: 160px;
-    margin-bottom: 0px;
+    margin-bottom: 430px;
  }
 
  .title1 {
@@ -394,6 +394,17 @@ text-decoration: underline;
     padding-top: 405px;
     padding-bottom: 135px;
     
+}
+.container .content1 {
+    margin-left: 968px;
+    position: absolute;
+    bottom: 0;
+    background-color: #4B69E9;
+    color: #fff;
+    padding: 20px;
+    margin-bottom: -218px;
+    padding-left: 38px;
+    padding-bottom: 338px;
 }
 
 
