@@ -410,6 +410,11 @@ text-decoration: underline;
     width: 300px;
 }
 
+.text-img {
+    z-index: 9;
+    margin: 30px;
+    background: #009938;
+}
 .row {
     margin-left: -15px;
     margin-right: -15px;
@@ -653,4 +658,8 @@ a.footer-link {
 }
 .blog-img {
     transition: all .7s;
+}
+
+#img-text {
+    background-color: #00e099;
 }
