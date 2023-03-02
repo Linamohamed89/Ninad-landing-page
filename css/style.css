@@ -511,10 +511,17 @@ padding-right: 0px;
     padding-bottom: 143px;
     padding-top: 142px;
 }
+#mydiv {
+    margin-top: 10px;
+}
 .location {
     fill: #fff;
     background-color: #00DE98;
     border-radius: 50%
+    margin-bottom: 20px;
+    margin-left: 150px;
+ 
+
 }
 .title-kontakt {
     font-size: 18px;
@@ -637,4 +644,13 @@ a.footer-link {
 }
 .telefon {
     margin-left: -3px;
+}
+
+/*animation*/
+
+.blog-img:hover {
+   transform: scale(1.1);
+}
+.blog-img {
+    transition: all .7s;
 }
