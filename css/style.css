@@ -396,17 +396,22 @@ text-decoration: underline;
     
 }
 .container .content1 {
-    margin-left: 968px;
+    margin-left: 90px;
     position: absolute;
     bottom: 0;
     background-color: #4B69E9;
     color: #fff;
-    padding: 20px;
+    padding: 110px;
     margin-bottom: -218px;
-    padding-left: 38px;
-    padding-bottom: 338px;
+   
+    padding-bottom: 335px;
+    width: 1306px;
 }
 
+.chosse-text {
+    margin-left: 10px;
+    margin-right: 10px;
+}
 
 /*team area*/
 #team {
