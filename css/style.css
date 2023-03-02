@@ -409,7 +409,26 @@ text-decoration: underline;
     margin-bottom: 100px;
     width: 300px;
 }
+.container {
+    position: relative;
+    
+}
+.container .content {
+    margin-left: 131px;
+    position: absolute;
+    bottom: 0;
+    background-color: #fff;
+    color: #000;
+    padding: 20px;
+    margin-bottom: 139px;
+    padding-left: 38px;
+    padding-bottom: 3px;
+}
 
+.team-hidder {
+color: #000;
+margin-bottom: 0px;
+}
 .text-img {
     z-index: 9;
     margin: 30px;
