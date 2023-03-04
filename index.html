@@ -15,6 +15,7 @@
 	<link
 		href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
 		rel="stylesheet">
+		<link rel="stylesheet" href="css/animate.css">
 	<link rel="stylesheet" href="css/style.css">
 </head>
 
@@ -73,16 +74,19 @@
 		<div class="row">
 			<div class="col-lg-6 text ms-15">
 				<span class="subtitle">Ninad Creative Agency</span>
-				<h1 class="text-white f-700 mb-30">Creative Mind with Creative People</h1>
-				<p class="text-white">Start business with top class high quality <br> creative people all over the world
+				<h1 class="text-white f-700 mb-30 wow fadeInleft" data-wow-duration="5s">Creative Mind with Creative People</h1>
+				<p class="text-white wow fadeInUp" data-wow-duration="2s" style="visibility: visible; animation-duration: 2s; animation-name: fadeInUp;">Start business with top class high quality <br> creative people all over the world
 				</p>
-				<a href="#" class="btn theme-border2 text-white">Read-More</a>
-			</div>
+				<a href="#" class="btn theme-border2 text-white wow fadeInUp" data-wow-duration="2.2s" tabindex="0" style="visibility: visible; animation-duration: 2.2s; animation-name: fadeInUp;">Read-More</a>
+			</div> 
+			
 			<div class="col-lg-4">
 				<img src="img/img1.png" class="fluid">
 			</div>
 		</div>
 	</section>
+
+
 	<!--end banner section-->
 
 	<!--service-->
@@ -122,7 +126,7 @@
 	<section class="mydiv py-5">
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-3">
+				<div class="col-lg-3 position-relative wow fadeInLeft" data-wow-duration="3s" style="visibility: visible; animation-duration: 3s; animation-name: fadeInLeft;">
 					<div class="single-about-img border-radius10 over-hidden mb-24">
 						<img class="zoom-img img w-100 transition5" src="img/about1.jpg" alt="">
 					</div>
@@ -130,7 +134,7 @@
 						<img class="zoom-img img w-100 transition5" src="img/about3.jpg" alt="">
 					</div>
 				</div>
-				<div class="col-lg-3">
+				<div class="col-lg-3 position-relative wow fadeInLeft" data-wow-duration="3s" style="visibility: visible; animation-duration: 3s; animation-name: fadeInLeft;">
 					<div class="single-about-img border-radius10 over-hidden mb-24">
 						<img class="zoom-img img w-100 transition5" src="img/about2.jpg" alt="">
 					</div>
@@ -352,7 +356,21 @@
 				<!-- end skill area-->
 				<div class="container">
 					<div class="content1">
-						
+						<div class="row">
+							<div class="col-lg-8">
+						<p class="chosse-text text-white">Why Choose Us</p>
+						<h2 class="chosse-title text-white">We Work to Grow Your Business</h2>
+						<p class="subtitle-chosse">Tompor inc id idunt ut labore et dolore ea commodo conseqd
+							exercitation ullm co laboris</p>
+						</div>
+						<div class="col-lg-2">
+
+						</div>
+						<div class="col-lg-2">
+							<a href="#" class="btn theme-bg theme-border2 text-capitalize d-inline-block mb-35 wow fadeInRight" data-wow-duration="2s" data-delay="1.5s" data-toggle="modal" data-target="#exampleModal-p8" style="visibility: visible; animation-duration: 2s; animation-name: fadeInRight;">Contact Now</a>
+						</div>
+					</div>
+		
 					</div>
 					<!--/content1-->
 				</div>
@@ -826,6 +844,10 @@
 		integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous">
 	</script>
 	<script src="https://unpkg.com/ionicons@5.4.0/dist/ionicons.js"></script>
+	<script src="js/wow.min.js"></script>
+              <script>
+              new WOW().init();
+              </script>
 </body>
 
 </html>
