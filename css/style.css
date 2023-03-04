@@ -223,15 +223,17 @@ h2, h2 {
     margin-bottom: 33px;   
 }
 .about-img {
-    margin-top: 5px;
+    margin-top: -7px;
     width: 45px;
-    margin-bottom: 5px;   
+    margin-bottom: 5px; 
+    margin-left: -26px;  
 }
 
 .paragraph-about {
     font-size: 20px;
     font-weight: 400;
     color: #646d8a;
+    margin-left: -50px;
 }
 
 h5, h5 {
