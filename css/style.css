@@ -240,6 +240,8 @@ p{
     margin-bottom: 15px;
 }
 
+
+
 /*about area*/
 .mydiv {
     margin-top: 190px;
@@ -301,7 +303,10 @@ h5, h5 {
 .i-icons {
     font-weight: 900;
     color: #00e099;
+    padding-right: 7px;
 }
+
+
 /*portfolio area*/
 
 #portfolio {
@@ -358,21 +363,29 @@ h5, h5 {
 .myrow {
     padding-bottom: 160px;
 }
+
+
  /*skill area*/
  .skill {
     background-color: #fff;
     margin-top: 160px;
-    margin-bottom: 430px;
+    margin-bottom: 105px;
  }
 
  .title1 {
     padding-top: 160px;
-    paddi
+   
  }
 
  .img-skill {
     padding-top: 70px;
  }
+
+
+
+
+
+ /*work*/
 
  .work-text {
     font-size: 24px;
