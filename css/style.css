@@ -99,10 +99,10 @@ p {
 }
 
 
+/*banner2*/
 
-img {
-    margin-top: 25px;
-    width: 550px;
+.banner2-icon {
+    margin-bottom: 25px;
 }
 
 .banner2 {
@@ -120,10 +120,7 @@ h4, h4{
     margin-top: 43px; 
 }
 
-.service-img {
-    margin-top: -16px;
-    width: 80px;
-}
+
 
 p{
         font-size: 20px;
@@ -135,7 +132,7 @@ p{
 
 
 
-    /**/
+    /*call*/
    
 
     .fa {
@@ -178,6 +175,8 @@ p{
     margin-top: -49px;
     padding-bottom: 55px;
         }
+
+
 /*our service*/
 #service {
     background-color: #2F3036;
@@ -205,6 +204,11 @@ p{
     width: 76px;
     margin-bottom: 33px;
 }
+
+
+
+
+
 
 #border-lila {
     background-color: #D7DEFE;
