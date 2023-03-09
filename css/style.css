@@ -134,6 +134,50 @@ p{
       }
 
 
+
+    /**/
+   
+
+    .fa {
+        color: #000;
+        font-size: 30px;
+        width: 70px;
+        line-height: 70px;
+        animation: pulse 2s infinite;
+        background: #fff;
+        text-align: center !important;
+        border-radius: 50% !important
+        margin-right: -226px;
+        margin-top: -51px;
+        margin-left: -34px;
+        border-radius: 50%;
+      }
+
+     
+      .transition3 {
+        font-size: 30px;
+        margin-right: 0px;
+        margin-bottom: -31px;
+        margin-top: -31px;
+        color: #fff;
+        font-weight: 700;
+      }
+
+      .container .content3 {
+        position: absolute;
+    background-color: #00e099;
+    color: #fff;
+    margin-bottom: -50px;
+    width: 407px;
+    margin-left: 1002px;
+    height: 10px;
+    border: 2px solid #00e099;
+    padding: 46px;
+    border-top-left-radius: 7%;
+    border-bottom-left-radius: 7%;
+    margin-top: -49px;
+    padding-bottom: 55px;
+        }
 /*our service*/
 #service {
     background-color: #2F3036;
@@ -199,6 +243,9 @@ p{
 
 /*about area*/
 
+#about-text {
+    margin-top: 44px;
+}
 .subtitle-about {
     font-size: 24px;
     font-weight: 700;
@@ -206,6 +253,7 @@ p{
     padding-left: 20px;
     margin-bottom: 6px;
 }
+
 h2, h2 {
     color: #343c55;
     font-size: 60px;
@@ -220,7 +268,8 @@ h2, h2 {
 .img-about {
     margin-top: 25px;
     width: 60px;
-    margin-bottom: 33px;   
+    margin-bottom: 33px;
+     
 }
 .about-img {
     margin-top: -7px;
@@ -399,15 +448,15 @@ text-decoration: underline;
     
 }
 .container .content1 {
-    margin-left: 90px;
     position: absolute;
     bottom: 0;
     background-color: #4B69E9;
     color: #fff;
-    padding: 110px;
-    margin-bottom: -218px;
-    padding-bottom: 335px;
-    width: 1306px;
+    padding: 76px;
+    margin-bottom: -225px;
+    padding-bottom: 30px;
+    width: 1420px;
+    margin-left: -29px;
 }
 
 .chosse-text {
@@ -583,7 +632,13 @@ text-align: center
 /*footer area*/
 #mycontent {
     background-color: #4B69E9;
+    margin-top: 101px;
+    padding: 124px;
 }
+#btn-info {
+        padding: 10px 33px
+    }
+
 /*footer area*/
 
 footer {
