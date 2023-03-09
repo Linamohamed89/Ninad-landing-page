@@ -5,6 +5,8 @@ body {
     color: #fff;
 }
 
+/*****************************************************/ 
+
 /* navbar */
 .logo-banner {
     vertical-align: middle;
@@ -49,6 +51,8 @@ body {
     font-size: 13px;
     margin-top: 5px;
 }
+
+/*****************************************************/ 
 
 /*banner section*/
 
@@ -97,7 +101,53 @@ p {
 .theme-border2 {
     border: 2px solid #00e099;
 }
+/*****************************************************/ 
 
+ /*call*/
+   
+
+ .fa {
+    color: #000;
+    font-size: 30px;
+    width: 70px;
+    line-height: 70px;
+    animation: pulse 2s infinite;
+    background: #fff;
+    text-align: center !important;
+    border-radius: 50% !important
+    margin-right: -226px;
+    margin-top: -51px;
+    margin-left: -34px;
+    border-radius: 50%;
+  }
+
+ 
+  .transition3 {
+    font-size: 30px;
+    margin-right: 0px;
+    margin-bottom: -31px;
+    margin-top: -31px;
+    color: #fff;
+    font-weight: 700;
+  }
+
+  .container .content3 {
+    position: absolute;
+background-color: #00e099;
+color: #fff;
+margin-bottom: -50px;
+width: 407px;
+margin-left: 1002px;
+height: 10px;
+border: 2px solid #00e099;
+padding: 46px;
+border-top-left-radius: 7%;
+border-bottom-left-radius: 7%;
+margin-top: -49px;
+padding-bottom: 55px;
+    }
+
+/*****************************************************/ 
 
 /*banner2*/
 
@@ -129,52 +179,76 @@ p{
         padding-right: 30px;
       }
 
+/*****************************************************/ 
 
 
-    /*call*/
-   
+        /*about area*/
+.mydiv {
+    margin-top: 190px;
+    margin-bottom: 165px;
+}
+.transition5{
+    margin-bottom: 24px;
+}
 
-    .fa {
-        color: #000;
-        font-size: 30px;
-        width: 70px;
-        line-height: 70px;
-        animation: pulse 2s infinite;
-        background: #fff;
-        text-align: center !important;
-        border-radius: 50% !important
-        margin-right: -226px;
-        margin-top: -51px;
-        margin-left: -34px;
-        border-radius: 50%;
-      }
+#about-text {
+    margin-top: 18px;
+}
+.subtitle-about {
+    font-size: 24px;
+    font-weight: 700;
+    color: #343c55;
+    padding-left: 20px;
+    margin-bottom: 6px;
+}
 
+h2, h2 {
+    color: #343c55;
+    font-size: 60px;
+    font-weight: 700;
+    margin-bottom: 25px;
+}
+#about {
+    font-size: 20px;
+    font-weight: 500;
+    color: #646d8a;
+    margin-bottom: 0px;
+}
+.img-about {
+    margin-top: 25px;
+    width: 60px;
+    margin-bottom: 33px;
      
-      .transition3 {
-        font-size: 30px;
-        margin-right: 0px;
-        margin-bottom: -31px;
-        margin-top: -31px;
-        color: #fff;
-        font-weight: 700;
-      }
+}
+.about-img {
+    margin-top: -7px;
+    width: 45px;
+    margin-bottom: 5px; 
+    margin-left: -26px;  
+}
 
-      .container .content3 {
-        position: absolute;
-    background-color: #00e099;
-    color: #fff;
-    margin-bottom: -50px;
-    width: 407px;
-    margin-left: 1002px;
-    height: 10px;
-    border: 2px solid #00e099;
-    padding: 46px;
-    border-top-left-radius: 7%;
-    border-bottom-left-radius: 7%;
-    margin-top: -49px;
-    padding-bottom: 55px;
-        }
+.paragraph-about {
+    font-size: 20px;
+    font-weight: 400;
+    color: #646d8a;
+    margin-left: -50px;
+}
 
+h5, h5 {
+    font-size: 21px;
+    font-weight: 700;
+    color: #343c55;
+    margin-bottom: 30px;
+}
+.i-icons {
+    font-weight: 900;
+    color: #00e099;
+    padding-right: 7px;
+}
+
+
+
+/*****************************************************/ 
 
 /*our service*/
 #service {
@@ -240,72 +314,7 @@ p{
     margin-bottom: 15px;
 }
 
-
-
-/*about area*/
-.mydiv {
-    margin-top: 190px;
-    margin-bottom: 165px;
-}
-.transition5{
-    margin-bottom: 24px;
-}
-
-#about-text {
-    margin-top: 18px;
-}
-.subtitle-about {
-    font-size: 24px;
-    font-weight: 700;
-    color: #343c55;
-    padding-left: 20px;
-    margin-bottom: 6px;
-}
-
-h2, h2 {
-    color: #343c55;
-    font-size: 60px;
-    font-weight: 700;
-    margin-bottom: 25px;
-}
-#about {
-    font-size: 20px;
-    font-weight: 500;
-    color: #646d8a;
-    margin-bottom: 0px;
-}
-.img-about {
-    margin-top: 25px;
-    width: 60px;
-    margin-bottom: 33px;
-     
-}
-.about-img {
-    margin-top: -7px;
-    width: 45px;
-    margin-bottom: 5px; 
-    margin-left: -26px;  
-}
-
-.paragraph-about {
-    font-size: 20px;
-    font-weight: 400;
-    color: #646d8a;
-    margin-left: -50px;
-}
-
-h5, h5 {
-    font-size: 21px;
-    font-weight: 700;
-    color: #343c55;
-    margin-bottom: 30px;
-}
-.i-icons {
-    font-weight: 900;
-    color: #00e099;
-    padding-right: 7px;
-}
-
+/*****************************************************/ 
 
 /*portfolio area*/
 
@@ -364,6 +373,7 @@ h5, h5 {
     padding-bottom: 160px;
 }
 
+/*****************************************************/ 
 
  /*skill area*/
  .skill {
@@ -382,7 +392,7 @@ h5, h5 {
  }
 
 
-
+/*****************************************************/ 
 
 
  /*work*/
@@ -477,7 +487,8 @@ text-decoration: underline;
  
     }
 
-    
+ /*****************************************************/ 
+
 /*choose area*/
 #choose-area {
     background-color: #2F3036;
@@ -490,17 +501,26 @@ text-decoration: underline;
     bottom: 0;
     background-color: #4B69E9;
     color: #fff;
-    padding: 76px;
-    margin-bottom: -225px;
+    padding: 87px;
+    margin-bottom: -241px;
     padding-bottom: 30px;
-    width: 1420px;
+    width: 1437px;
     margin-left: -29px;
+    border-top-left-radius: 2%;
+    border-end-start-radius: 2%
+}
+.choose-b {
+    color: #fff;
+    background-color: #00e099;
+    margin-top: 92px;
 }
 
 .chosse-text {
     margin-left: 10px;
     margin-right: 10px;
 }
+
+/*****************************************************/ 
 
 /*team area*/
 #team {
@@ -544,6 +564,8 @@ margin-bottom: 0px;
     margin-right: -15px;
 }
 
+/*****************************************************/ 
+
 /*test area*/
 #test {
     background-color: #4B69E9;
@@ -581,6 +603,9 @@ padding-right: 0px;
     margin-left: 60px;
     margin-top: 45px;
 }
+
+/*****************************************************/ 
+
  /*blog area*/
 
 .blog-img {
@@ -666,6 +691,10 @@ padding-right: 0px;
     font-size: 20px;
 font-weight: 400;
 text-align: center
+
+
+/*****************************************************/ 
+
 }
 /*footer area*/
 #mycontent {
@@ -676,6 +705,9 @@ text-align: center
 #btn-info {
         padding: 10px 33px
     }
+
+
+    /*****************************************************/ 
 
 /*footer area*/
 
