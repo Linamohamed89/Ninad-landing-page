@@ -121,7 +121,6 @@ h4, h4{
 }
 
 
-
 p{
         font-size: 20px;
         font-weight: 400;
@@ -180,8 +179,8 @@ p{
 /*our service*/
 #service {
     background-color: #2F3036;
-    padding-top: 100px;
-    padding-bottom: 0px;
+    padding-top: 180px;
+    
 }
 .text-subtitle {
     color: #fff;
@@ -197,6 +196,7 @@ p{
     margin-bottom: 20px;
     color: #fff;
     text-align: center;
+    padding-bottom: 33px;
 }
 
 .icon-img {
@@ -205,38 +205,33 @@ p{
     margin-bottom: 33px;
 }
 
-
-
-
-
-
 #border-lila {
     background-color: #D7DEFE;
     padding: 45px 130px;
-    margin-bottom: 30px;
+    margin-bottom: 35px;
     border-radius: 10PX;
     margin-left: 112px;
 }
 #border-orang {
     background-color: #FEE7D5;
     padding: 45px 130px;
-    margin-bottom: 30px;
+    margin-bottom: 35px;
     border-radius: 10PX;
-    margin-left: 30px;
+    margin-left: 35px;
 }
 #border-pink {
     background-color: #FEDCE6;
     padding: 45px 130px;
-    margin-bottom: 30px;
+    margin-bottom: 160px;
     border-radius: 10PX;
     margin-left: 112px;
 }
 #border-green {
     background-color: #E4F9D1;
     padding: 45px 130px;
-    margin-bottom: 30px;
+    margin-bottom: 160px;
     border-radius: 10PX;
-    margin-left: 30px;
+    margin-left: 35px;
 }
 .h3, h3 {
     font-size: 30px;
@@ -246,9 +241,16 @@ p{
 }
 
 /*about area*/
+.mydiv {
+    margin-top: 190px;
+    margin-bottom: 165px;
+}
+.transition5{
+    margin-bottom: 24px;
+}
 
 #about-text {
-    margin-top: 44px;
+    margin-top: 18px;
 }
 .subtitle-about {
     font-size: 24px;
@@ -268,6 +270,7 @@ h2, h2 {
     font-size: 20px;
     font-weight: 500;
     color: #646d8a;
+    margin-bottom: 0px;
 }
 .img-about {
     margin-top: 25px;
@@ -295,7 +298,10 @@ h5, h5 {
     color: #343c55;
     margin-bottom: 30px;
 }
-
+.i-icons {
+    font-weight: 900;
+    color: #00e099;
+}
 /*portfolio area*/
 
 #portfolio {
