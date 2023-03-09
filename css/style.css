@@ -369,7 +369,7 @@ h5, h5 {
  .skill {
     background-color: #fff;
     margin-top: 160px;
-    margin-bottom: 105px;
+    margin-bottom: 0px;
  }
 
  .title1 {
@@ -386,7 +386,19 @@ h5, h5 {
 
 
  /*work*/
-
+ #view {
+    background-color: #fff;
+    margin-top: 0px;
+    padding-bottom: 268px;
+ }
+.img-view {
+    width: 696px;
+    height: 675px;
+    padding-top: 139px;
+}
+.title1{
+    padding-top: 289px;
+}
  .work-text {
     font-size: 24px;
     font-weight: 700;
@@ -406,7 +418,7 @@ h5, h5 {
     font-weight: 400;
     line-height: 33px;
     color: #646d8a;
-    margin-bottom: 1rem;
+    margin-bottom: 3rem;
  }
  .view-text {
     margin-bottom: 6px;
@@ -434,6 +446,9 @@ h5, h5 {
   .green-link {
     color: #00DE98;
     text-decoration: underline;
+    font-weight: 700;
+    font-size: 16px;
+
   }
 
   .green-link:hover {
@@ -441,8 +456,7 @@ color: #000;
 text-decoration: underline;
 }
 
- /* work area*/
- .number {
+.number {
     font-size: 48px;
     font-weight: 700;
     color: #343c55;
@@ -460,6 +474,7 @@ text-decoration: underline;
     }
     a:hover {
         color: #222;
+ 
     }
 
     
