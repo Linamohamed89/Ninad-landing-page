@@ -770,7 +770,7 @@ input {
 
 /*****************************************************/
 
-/**/
+/*location*/
 .mylocation {
     margin-left: 150px;
 }
@@ -798,6 +798,43 @@ input {
     font-size: 20px;
     font-weight: 400;
 }
+
+ /*****************************************************/ 
+
+ /*contact area*/
+
+ input[class="text-kontakt"]
+ {
+    background: #F3F5FC;
+    display: block;
+    width: 78%;
+    height: 56px;
+    border: 0 !important;
+    outline: none;
+    padding-right: -9px;
+    padding-left: -17px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    border-radius: 10px;
+    color: #a1a7bb;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    text-align: center !important;
+    font-weight: 400;
+    font-size: 18px;
+    margin-left: 44px;
+ }
+ input[name="name"]
+ {
+    margin-left: 145px;
+ }
+
+ input[name="phone-number"]
+ {
+    margin-left: -60px;
+ }
+ 
+
+
     /*****************************************************/ 
 
 /*footer area*/
