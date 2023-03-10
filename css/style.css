@@ -888,7 +888,24 @@ input {
 }
 .brand-img1 {
     padding-left: 210px;
+    
 }
+.brand-img:hover{
+    margin-top: -15px;
+}
+.brand-img1:hover{
+     margin-top: -15px;
+}
+.brand-img2:hover{
+     margin-top: -15px;
+}
+.brand-img3:hover{
+     margin-top: -15px;
+}
+.brand-img4:hover{
+     margin-top: -15px;
+}
+
 .brand-img2{
     padding-left: 260px;
 }
