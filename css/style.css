@@ -701,15 +701,72 @@ text-align: center
 /*****************************************************/ 
 
 }
-/*footer area*/
+/*search area*/
 #mycontent {
     background-color: #4B69E9;
     margin-top: 101px;
     padding: 124px;
+    width: 100%;
+padding-right: 15px;
+padding-left: 15px;
+margin-right: auto;
+margin-left: auto;
+max-width: 1340px;
 }
-#btn-info {
-        padding: 10px 33px
+.text-subtitle1 {
+    font-size: 24px;
+    font-weight: 700;
+    color: #fff;
+    margin-bottom: 52px;
+}
+.text-title1{
+    font-size: 48px;
+    font-weight: 700;
+    color: #fff;
+    margin-bottom: 81px;
+    margin-top: -50px;
+    position: absolute;
+    margin-left: -55px;
+}
+form {
+   margin: 48px 0;
+}
+input {
+        position: relative;
+        display: inline-block;
+        font-size: 20px;
+        box-sizing: border-box;
+        transition: .5s;
     }
+    input[type="email"]
+    {
+        background: #fff;
+        width: 340px;
+        height: 50px;
+        border: none;
+        outline: none;
+        padding: 0 25px;
+        border-radius: 7px 0 0 7px;
+    }
+    input[type="submit"]
+    {
+        position: relative;
+        left: -5px;
+        border-radius: 0 7px 7px 0;
+        width: 150px;
+        height: 50px;
+        border: #00e099;
+        outline: none;
+        cursor: pointer;
+        background-color: #00e099;
+        color: #fff;
+    }
+
+    input[type="submit"]:hover {
+        color: #00e099;
+        background-color: #fff;
+    }
+
 
 
     /*****************************************************/ 
