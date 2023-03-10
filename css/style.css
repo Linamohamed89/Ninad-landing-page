@@ -503,7 +503,7 @@ text-decoration: underline;
     color: #fff;
     padding: 87px;
     margin-bottom: -241px;
-    padding-bottom: 30px;
+    padding-bottom: 111px;
     width: 1437px;
     margin-left: -29px;
     border-top-left-radius: 2%;
@@ -608,6 +608,11 @@ padding-right: 0px;
 
  /*blog area*/
 
+ #blog {
+    padding-top: 20px;
+    margin-top: 153px;
+    margin-bottom: 105px;
+ }
 .blog-img {
     width: 100%;
     border-radius: 7%;
