@@ -880,6 +880,19 @@ input {
     color: #00e099;
  }
 
+/*****************************************************/ 
+/*brand area*/
+
+.brand-img {
+    padding-left: 144px;
+}
+.brand-img1 {
+    padding-left: 210px;
+}
+.brand-img2{
+    padding-left: 260px;
+}
+
     /*****************************************************/ 
 
 /*footer area*/
