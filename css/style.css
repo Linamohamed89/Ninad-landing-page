@@ -705,13 +705,14 @@ text-align: center
 #mycontent {
     background-color: #4B69E9;
     margin-top: 101px;
-    padding: 124px;
+    padding: 66px;
     width: 100%;
 padding-right: 15px;
 padding-left: 15px;
 margin-right: auto;
 margin-left: auto;
 max-width: 1340px;
+border-radius: 7px;
 }
 .text-subtitle1 {
     font-size: 24px;
@@ -726,7 +727,7 @@ max-width: 1340px;
     margin-bottom: 81px;
     margin-top: -50px;
     position: absolute;
-    margin-left: -55px;
+    margin-left: -33px;
 }
 form {
    margin: 48px 0;
