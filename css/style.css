@@ -771,6 +771,9 @@ input {
 /*****************************************************/
 
 /**/
+.mylocation {
+    margin-left: 150px;
+}
 .lcontact-icon {
    border-radius: 50%;
    background-color: #00e099;
