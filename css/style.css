@@ -875,6 +875,11 @@ input {
     margin-top: -21px;
  }
 
+ .submit-1:hover {
+    background-color: #fff;
+    color: #00e099;
+ }
+
     /*****************************************************/ 
 
 /*footer area*/
