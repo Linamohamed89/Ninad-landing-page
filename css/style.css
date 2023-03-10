@@ -768,8 +768,33 @@ input {
         background-color: #fff;
     }
 
+/*****************************************************/
 
+/**/
+.lcontact-icon {
+   border-radius: 50%;
+   background-color: #00e099;
+   width: 60px;
+   height: 60px;
+   padding: 13px;
+   margin-bottom: 20px;
+   margin-left: 104px;
+}
 
+.location-text {
+    font-size: 18px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    color: #343c55;
+    text-align: center;
+}
+
+.location-p {
+    color: #646d8a;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+}
     /*****************************************************/ 
 
 /*footer area*/
