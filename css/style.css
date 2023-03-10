@@ -364,6 +364,9 @@ h5, h5 {
     height: auto;
     margin-top: 20px;
 }
+.img-fluid:hover{
+    border-radius: 50%;
+}
 
  .partofolio-erea {
     padding-top: 140px;
@@ -856,7 +859,7 @@ input {
     margin-bottom: -12px;
  }
 
- .submit-1
+ #klick
  {
     position: relative;
     left: 140px;
@@ -869,15 +872,16 @@ input {
     background-color: #00e099;
     color: #fff !important;
     text-align: center;
-    font-size: 18px;
+    font-size: 21px;
     font-weight: 700;
-    padding: 28px 47px;
-    margin-top: -21px;
+    padding: 13px 39px;
+    margin-top: -23px;
  }
 
- .submit-1:hover {
+ #klick:hover {
+    color: #00e099 !important;
     background-color: #fff;
-    color: #00e099;
+    
  }
 
 /*****************************************************/ 
