@@ -820,7 +820,7 @@ input {
     transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
     text-align: center !important;
     font-weight: 400;
-    font-size: 18px;
+    font-size: 14px;
     margin-left: 44px;
  }
  input[name="name"]
@@ -833,7 +833,47 @@ input {
     margin-left: -60px;
  }
  
+ input[type="message"]
+ {
+    background: #F3F5FC;
+    display: flex;
+    width: 77%;
+    height: 271px;
+    border: 0 !important;
+    outline: none;
+    padding-right: 10px;
+    padding-left: 25px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+    border-radius: 10px;
+    color: #a1a7bb;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    text-align: center !important;
+    font-weight: 400;
+    font-size: 14px;
+    margin-left: 140px;
+    margin-top: -84px;
+    margin-bottom: -12px;
+ }
 
+ .submit-1
+ {
+    position: relative;
+    left: 140px;
+    border-radius: 28px;
+    width: 77%;
+    height: 50px;
+    border: #00e099;
+    outline: none;
+    cursor: pointer;
+    background-color: #00e099;
+    color: #fff !important;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 28px 47px;
+    margin-top: -21px;
+ }
 
     /*****************************************************/ 
 
